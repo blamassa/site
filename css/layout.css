@@ -332,13 +332,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .ingles {
-    width: 85%;
+    width: 90%;
     -moz-animation: ingles 2s ease;
     -webkit-animation: ingles 2s ease;
 }
 
 .alemao {
-    width: 18%;
+    width: 60%;
     -moz-animation: alemao 2s ease;
     -webkit-animation: alemao 2s ease;
 }
